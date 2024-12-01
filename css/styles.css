@@ -75,7 +75,6 @@
         }
 
 .main-btn {
-        width: 169px;
         color: #fff;;
         background-color: #4d5ae5;
         font-weight: 500;
@@ -107,7 +106,7 @@
 }
 
 .page-section-three{
-    background: #f4f4fd;
+    background:#FFFFFF;
 }
 .section-team{
         font-weight: 700;
@@ -119,7 +118,7 @@
 }
 
 .section-team{
-    background-color: #FFFFFF;
+       background-color: #FFFFFF;
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -151,7 +150,7 @@
             color: #434455;
   }
 .text-portfolio{
-      font-weight: 700;
+        font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
